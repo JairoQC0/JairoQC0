@@ -36,11 +36,12 @@ Jairo Quispe Coa
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JairoQC0&show_icons=true&theme=blue-green)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JairoQC0&layout=compact&theme=blue-green)
+![Followers](https://img.shields.io/github/followers/JairoQC0?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/JairoQC0?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/JairoQC0/JairoQC0?style=for-the-badge)
 
 ---
 
