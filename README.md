@@ -39,25 +39,25 @@ Jairo Quispe Coa
 
 ### 📊 GitHub Stats
 
-![Jairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JairoQuispeCoa&show_icons=true&theme=blue-green&count_private=true)
+![Jairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JairoQC0&show_icons=true&theme=blue-green&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoQuispeCoa&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoQC0&layout=compact&theme=blue-green)
 
 ---
 
 ### 🔗 Find me on
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jairo-quispe-coa" target="_blank">
+  <a href="https://www.linkedin.com/in/jairoquispecoa" target="_blank">
     <img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg">
   </a>&nbsp;&nbsp;
 
-  <a href="https://github.com/JairoQuispeCoa" target="_blank">
+  <a href="https://github.com/JairoQC0" target="_blank">
     <img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/github%20rect.svg">
   </a>
 </p>
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JairoQuispeCoa/JairoQuispeCoa)
-![Profile views](https://komarev.com/ghpvc/?username=JairoQuispeCoa)
+![GitHub last commit](https://img.shields.io/github/last-commit/JairoQC0/JairoQC0)
+![Profile views](https://komarev.com/ghpvc/?username=JairoQC0)
