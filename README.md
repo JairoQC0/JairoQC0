@@ -1,7 +1,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 <h2 align="left">
-Hi there, I'm <a href="https://www.linkedin.com/in/jairo-quispe-coa" target="_blank" rel="noopener noreferrer">
+Hi there, I'm <a href="https://www.linkedin.com/in/jairoquispecoa" target="_blank" rel="noopener noreferrer">
 Jairo Quispe Coa
 </a>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
@@ -42,6 +42,7 @@ Jairo Quispe Coa
 ![Jairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JairoQC0&show_icons=true&theme=blue-green&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoQC0&layout=compact&theme=blue-green)
+
 
 ---
 
