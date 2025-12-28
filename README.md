@@ -11,10 +11,10 @@ Jairo Quispe Coa
 
 ### 👨‍💻 About me
 
-- 🎓 Software Developer (Backend & Full-Stack)
+- 🎓 Software Developer (Full-Stack)
 - 💼 Experience in academic, enterprise and startup projects
 - ♟️ Chess enthusiast
-- 🧠 Interested in systems architecture, QA automation and applied AI
+- 🧠 Interested in Quantum Computing
 - 🌎 Based in Peru
 
 ---
