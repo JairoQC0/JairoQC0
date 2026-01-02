@@ -2,7 +2,7 @@
 
 <h2 align="left">
 Hi there, I'm <a href="https://www.linkedin.com/in/jairoquispecoa" target="_blank" rel="noopener noreferrer">
-Jairo Quispe Coa
+Jairo Jeampiare Quispe Coa
 </a>
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 </h2>
