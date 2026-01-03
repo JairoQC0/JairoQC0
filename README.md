@@ -12,7 +12,7 @@ Jairo Jeampiare Quispe Coa
 ### 👨‍💻 About me
 
 - 🎓 Software Developer (Full-Stack)
-- 💼 Experience in academic, enterprise and startup projects
+- 💼 Experience in projects
 - ♟️ Chess enthusiast
 - 🧠 Interested in Quantum Computing
 - 🌎 Based in Peru
